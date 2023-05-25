@@ -1,0 +1,25 @@
+body{
+background-color: black;
+}
+
+h1{
+font-size: 50px;
+color:crimson;
+text-align: center;
+}
+
+#msg{
+background-image: linear-gradient(to right, aqua, purple);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+font-size: 40px;
+text-align: center;
+text-transform: uppercase;
+}
+img{
+    width: 50%;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
